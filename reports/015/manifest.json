@@ -1,0 +1,44 @@
+{
+  "number": 15,
+  "when": {
+    "year": 2020,
+    "month": 2,
+    "day": 4
+  },
+  "revisions": [
+    {
+      "id": "0d8914411860cdd59a44dcfdeade21f1",
+      "when": {
+        "year": 2020,
+        "month": 2,
+        "day": 5,
+        "hour": 17,
+        "minute": 32,
+        "second": 22
+      },
+      "content": {
+        "type": "pdf",
+        "location": "20200204-sitrep-15-ncov.pdf",
+        "metadata": {
+          "author": "Ikejezie, Mr. Juniorcaius (WDC)",
+          "whenCreated": {
+            "year": 2020,
+            "month": 2,
+            "day": 5,
+            "hour": 17,
+            "minute": 32,
+            "second": 22
+          },
+          "whenModified": {
+            "year": 2020,
+            "month": 2,
+            "day": 5,
+            "hour": 17,
+            "minute": 32,
+            "second": 22
+          }
+        }
+      }
+    }
+  ]
+}

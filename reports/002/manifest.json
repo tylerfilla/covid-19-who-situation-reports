@@ -1,0 +1,44 @@
+{
+  "number": 2,
+  "when": {
+    "year": 2020,
+    "month": 1,
+    "day": 22
+  },
+  "revisions": [
+    {
+      "id": "e87453c971c18cdb96cf6b7268a810d0",
+      "when": {
+        "year": 2020,
+        "month": 1,
+        "day": 22,
+        "hour": 18,
+        "minute": 55,
+        "second": 57
+      },
+      "content": {
+        "type": "pdf",
+        "location": "20200122-sitrep-2-2019-ncov.pdf",
+        "metadata": {
+          "author": "Cramer",
+          "whenCreated": {
+            "year": 2020,
+            "month": 1,
+            "day": 22,
+            "hour": 18,
+            "minute": 55,
+            "second": 57
+          },
+          "whenModified": {
+            "year": 2020,
+            "month": 1,
+            "day": 22,
+            "hour": 18,
+            "minute": 55,
+            "second": 57
+          }
+        }
+      }
+    }
+  ]
+}

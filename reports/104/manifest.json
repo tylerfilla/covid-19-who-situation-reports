@@ -1,0 +1,44 @@
+{
+  "number": 104,
+  "when": {
+    "year": 2020,
+    "month": 5,
+    "day": 3
+  },
+  "revisions": [
+    {
+      "id": "dc780b6f3e69e7216bcf3f86c181fc72",
+      "when": {
+        "year": 2020,
+        "month": 5,
+        "day": 3,
+        "hour": 15,
+        "minute": 52,
+        "second": 41
+      },
+      "content": {
+        "type": "pdf",
+        "location": "20200503-covid-19-sitrep-104.pdf",
+        "metadata": {
+          "author": "LATA, Harsh",
+          "whenCreated": {
+            "year": 2020,
+            "month": 5,
+            "day": 3,
+            "hour": 15,
+            "minute": 52,
+            "second": 41
+          },
+          "whenModified": {
+            "year": 2020,
+            "month": 5,
+            "day": 3,
+            "hour": 15,
+            "minute": 52,
+            "second": 41
+          }
+        }
+      }
+    }
+  ]
+}

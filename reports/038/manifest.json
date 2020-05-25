@@ -1,0 +1,44 @@
+{
+  "number": 38,
+  "when": {
+    "year": 2020,
+    "month": 2,
+    "day": 27
+  },
+  "revisions": [
+    {
+      "id": "12956455a58024932e1ec061ddff18fb",
+      "when": {
+        "year": 2020,
+        "month": 2,
+        "day": 27,
+        "hour": 20,
+        "minute": 46,
+        "second": 36
+      },
+      "content": {
+        "type": "pdf",
+        "location": "20200227-sitrep-38-covid-19.pdf",
+        "metadata": {
+          "author": "Ikejezie, Mr. Juniorcaius (WDC)",
+          "whenCreated": {
+            "year": 2020,
+            "month": 2,
+            "day": 27,
+            "hour": 20,
+            "minute": 46,
+            "second": 36
+          },
+          "whenModified": {
+            "year": 2020,
+            "month": 2,
+            "day": 27,
+            "hour": 20,
+            "minute": 46,
+            "second": 36
+          }
+        }
+      }
+    }
+  ]
+}
