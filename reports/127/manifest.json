@@ -1,0 +1,44 @@
+{
+  "number": 127,
+  "when": {
+    "year": 2020,
+    "month": 5,
+    "day": 26
+  },
+  "revisions": [
+    {
+      "id": "65a665e9e941598f795e8801cb365484",
+      "when": {
+        "year": 2020,
+        "month": 5,
+        "day": 26,
+        "hour": 21,
+        "minute": 44,
+        "second": 12
+      },
+      "content": {
+        "type": "pdf",
+        "location": "20200526-covid-19-sitrep-127.pdf",
+        "metadata": {
+          "author": "WHO",
+          "whenCreated": {
+            "year": 2020,
+            "month": 5,
+            "day": 26,
+            "hour": 21,
+            "minute": 44,
+            "second": 12
+          },
+          "whenModified": {
+            "year": 2020,
+            "month": 5,
+            "day": 26,
+            "hour": 21,
+            "minute": 44,
+            "second": 12
+          }
+        }
+      }
+    }
+  ]
+}
