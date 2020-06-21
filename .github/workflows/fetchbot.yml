@@ -1,7 +1,9 @@
 name: Fetchbot
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  repository_dispatch:
+    types:
+      - execute
+      - execute-dry
 jobs:
   main:
     runs-on: ubuntu-latest
