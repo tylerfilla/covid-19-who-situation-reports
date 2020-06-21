@@ -1,9 +1,11 @@
 #!/bin/bash
 #
-# Sitrep Scraper
+# Sitrep Scraper - Scrapebot
 #
 
 cat /etc/os-release
+
+cd /github/workspace/.github/actions/scrapebot || exit
 
 pip install --upgrade pip
 pip install -r requirements.txt
