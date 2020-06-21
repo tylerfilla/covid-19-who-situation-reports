@@ -1,0 +1,9 @@
+name: Scrapebot
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello, world!"
