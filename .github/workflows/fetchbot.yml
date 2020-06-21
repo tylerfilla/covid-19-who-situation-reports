@@ -3,7 +3,8 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 jobs:
-  hello:
+  main:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello, world!"
+      - uses: actions/checkout@v2
+      - uses: ./.github/actions/fetchbot

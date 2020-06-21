@@ -1,0 +1,5 @@
+name: Buildbot
+description: Bot for building the final artifact
+runs:
+  using: docker
+  image: Dockerfile

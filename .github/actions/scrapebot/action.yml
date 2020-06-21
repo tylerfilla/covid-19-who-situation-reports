@@ -1,0 +1,5 @@
+name: Scrapebot
+description: Bot for mining situation reports for data
+runs:
+  using: docker
+  image: Dockerfile

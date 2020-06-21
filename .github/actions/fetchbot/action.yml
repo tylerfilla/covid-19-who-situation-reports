@@ -1,0 +1,5 @@
+name: Fetchbot
+description: Bot for fetching new situation reports
+runs:
+  using: docker
+  image: Dockerfile
