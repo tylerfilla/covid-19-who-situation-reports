@@ -1,3 +1,7 @@
+#
+# Sitrep Scraper
+#
+
 name: Scrapebot
 description: Bot for mining situation reports for data
 runs:

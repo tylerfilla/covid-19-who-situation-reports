@@ -1,3 +1,7 @@
+#
+# Sitrep Scraper
+#
+
 name: Fetchbot
 description: Bot for fetching new situation reports
 runs:
