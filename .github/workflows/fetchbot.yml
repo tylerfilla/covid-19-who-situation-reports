@@ -2,8 +2,8 @@ name: Fetchbot
 on:
   repository_dispatch:
     types:
-      - execute
-      - execute-dry
+      - fetch
+      - fetch-dry
 jobs:
   main:
     runs-on: ubuntu-latest
