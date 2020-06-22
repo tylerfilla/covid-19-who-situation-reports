@@ -7,3 +7,7 @@ description: Bot for building the final artifact
 runs:
   using: docker
   image: Dockerfile
+inputs:
+  key:
+    required: true
+    description: Bot encryption key

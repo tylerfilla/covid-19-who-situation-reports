@@ -7,3 +7,7 @@ description: Bot for fetching new situation reports
 runs:
   using: docker
   image: Dockerfile
+inputs:
+  key:
+    required: true
+    description: Bot encryption key

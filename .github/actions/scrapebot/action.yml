@@ -7,3 +7,7 @@ description: Bot for mining situation reports for data
 runs:
   using: docker
   image: Dockerfile
+inputs:
+  key:
+    required: true
+    description: Bot encryption key
