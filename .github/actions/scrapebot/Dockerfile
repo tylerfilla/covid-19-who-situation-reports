@@ -1,5 +1,5 @@
 #
-# Sitrep Scraper
+# Sitrep Scraper - Scrapebot
 #
 
 FROM python:3

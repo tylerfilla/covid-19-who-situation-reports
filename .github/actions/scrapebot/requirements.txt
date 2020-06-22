@@ -1,5 +1,5 @@
 #
-# Sitrep Scraper
+# Sitrep Scraper - Scrapebot
 #
 
 cffi==1.14.0

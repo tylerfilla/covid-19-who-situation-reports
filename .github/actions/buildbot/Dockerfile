@@ -1,5 +1,5 @@
 #
-# Sitrep Scraper
+# Sitrep Scraper - Buildbot
 #
 
 FROM python:3

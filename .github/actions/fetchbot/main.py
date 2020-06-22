@@ -1,5 +1,5 @@
 #
-# Sitrep Scraper
+# Sitrep Scraper - Fetchbot
 #
 
 
