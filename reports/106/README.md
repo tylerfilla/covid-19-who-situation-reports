@@ -1,0 +1,81 @@
+# 106 - 5 May 2020
+
+This is situation report #106 covering the day of May 5, 2020.
+
+## Structure
+
+```
+106/
+ |
+ +- data/
+ |   |
+ |   +- revs/
+ |   |   |
+ |   |   +- 0/
+ |   |       |
+ |   |       +- content/
+ |   |       |   |
+ |   |       |   +- meta/
+ |   |       |   |   |
+ |   |       |   |   +- whenCreated/
+ |   |       |   |   |   |
+ |   |       |   |   |   +- day
+ |   |       |   |   |   |
+ |   |       |   |   |   +- hour
+ |   |       |   |   |   |
+ |   |       |   |   |   +- minute
+ |   |       |   |   |   |
+ |   |       |   |   |   +- month
+ |   |       |   |   |   |
+ |   |       |   |   |   +- second
+ |   |       |   |   |   |
+ |   |       |   |   |   +- year
+ |   |       |   |   |
+ |   |       |   |   +- whenModified/
+ |   |       |   |   |   |
+ |   |       |   |   |   +- day
+ |   |       |   |   |   |
+ |   |       |   |   |   +- hour
+ |   |       |   |   |   |
+ |   |       |   |   |   +- minute
+ |   |       |   |   |   |
+ |   |       |   |   |   +- month
+ |   |       |   |   |   |
+ |   |       |   |   |   +- second
+ |   |       |   |   |   |
+ |   |       |   |   |   +- year
+ |   |       |   |   |
+ |   |       |   |   +- author
+ |   |       |   |
+ |   |       |   +- location
+ |   |       |   |
+ |   |       |   +- type
+ |   |       |
+ |   |       +- content/
+ |   |       |
+ |   |       +- when/
+ |   |       |
+ |   |       +- id
+ |   |
+ |   +- when/
+ |   |   |
+ |   |   +- day
+ |   |   |
+ |   |   +- month
+ |   |   |
+ |   |   +- year
+ |   |
+ |   +- number
+ |
+ +- files/
+     |
+     +- 20200505covid-19-sitrep-106.pdf
+```
+
+### `data/`
+
+The subfolder `data/` holds harvested data from the situation report.
+
+### `files/`
+
+The subfolder `files/` holds raw content files for the situation report.
